@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0--2",
-      "name": "生技園區-2",
+      "id": "0--",
+      "name": "生技園區-側門",
       "levels": [
         {
           "tileSize": 256,
@@ -30,8 +30,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.34172196941554134,
-          "pitch": 0.36834752332986476,
+          "yaw": -0.2643846408455648,
+          "pitch": 0.31552803865956847,
           "rotation": 0,
           "target": "1-"
         }
@@ -64,8 +64,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.1007924860704783,
-          "pitch": 0.2516221569453183,
+          "yaw": -0.06585003569210457,
+          "pitch": 0.31063036786725995,
           "rotation": 0,
           "target": "2-"
         },
@@ -73,10 +73,17 @@ var APP_DATA = {
           "yaw": -1.6841306991281737,
           "pitch": 0.23850409316155563,
           "rotation": 0,
-          "target": "0--2"
+          "target": "0--"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -0.4423758591623663,
+          "pitch": -0.10477734434561015,
+          "title": "早旬咖啡廳",
+          "text": "一家咖啡廳"
+        }
+      ]
     },
     {
       "id": "2-",
@@ -104,8 +111,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -3.009871235817748,
-          "pitch": 0.3276357906033418,
+          "yaw": -3.0691087114880826,
+          "pitch": 0.1966772864001598,
           "rotation": 0,
           "target": "1-"
         }
@@ -116,7 +123,7 @@ var APP_DATA = {
   "name": "inside",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": true,
+    "autorotateEnabled": false,
     "fullscreenButton": false,
     "viewControlButtons": false
   }

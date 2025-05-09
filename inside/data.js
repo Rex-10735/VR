@@ -1,7 +1,7 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0--",
+      "id": "0-4",
       "name": "生技園區-側門",
       "levels": [
         {

@@ -36,7 +36,14 @@ var APP_DATA = {
           "target": "1-"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 0.9356025576874423,
+          "pitch": 0.006106664367763415,
+          "title": "???",
+          "text": "???"
+        }	  
+	  ]
     },
     {
       "id": "1-",

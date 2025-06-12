@@ -233,8 +233,8 @@ var APP_DATA = {
   "name": "海科館上層",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": true,
-    "fullscreenButton": false,
-    "viewControlButtons": false
+    "autorotateEnabled": false,
+    "fullscreenButton": true,
+    "viewControlButtons": true
   }
 };
